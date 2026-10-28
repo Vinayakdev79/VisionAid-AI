@@ -1,0 +1,7 @@
+customtkinter
+opencv-python
+Pillow
+numpy
+requests
+pywin32
+ollama 
